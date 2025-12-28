@@ -1,4 +1,4 @@
-# Gaurav Jain:
+# Gaurav Jain
 Third-year Bachelor of Technology student in Computer and Communication Engineering at LNMIIT, with a strong focus on applied Artificial Intelligence and Machine Learning. Currently developing end-to-end ML systems, including real-time stock price prediction, audio phoneme analysis using CNN/CRNN architectures, and audio steganography integrating signal processing with machine learning techniques. Actively advancing skills in deep learning, transformers, probabilistic modeling, MLOps, and production-ready AI systems. Demonstrates a strong analytical approach with emphasis on model generalization, feature engineering for non-stationary data, and building reliable, real-world ML pipelines, with a clear interest in understanding both how and why models work.
 
 
